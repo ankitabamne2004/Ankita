@@ -36,7 +36,7 @@ ________________________________________
 1.	Ensure Python is installed on your system.
 2.	Clone this repository or download the .py file.
 3.	Run the script using:
-      python bill_management.py
+        python bill.py
 
 ________________________________________
 
